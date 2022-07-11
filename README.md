@@ -1,1 +1,1 @@
-# artic_control
+# arctic_control
